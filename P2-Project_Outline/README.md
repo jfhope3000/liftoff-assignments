@@ -7,9 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-I want to build a website utilizing Java to demonstrate how ranked voting works, and how it might have worked as an alternative to the arguably antiquated caucus system.
+This project will demonstrate how ranked voting works, and how it might offer an alternagtive to the current caucus system used by some states to determine presidential candidates.
 
-The website would act first as an educational tool to show users how a ranked voting system would work using the presidential candidates the 2016 (GOP - 17 possible candidates) and 2020 (Democrats - 29 candidates)  as examples. 
+The website would act first as an educational tool to show users how a ranked voting system would work using the presidential candidates the 2016 (GOP - 17 possible candidates) and 2020 (Democrats - 29 candidates) election cycles as examples. 
 
 ### Features
 Random vote generator that allows users to create a list of candidates and then create random or non-random vote tallies to display how results are calculated to eventually provide a winner with 50%+ of the votes.
