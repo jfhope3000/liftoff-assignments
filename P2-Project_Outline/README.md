@@ -20,7 +20,7 @@ Build your own candidate form will allow candidate names (required), photos (not
 
 
 ### Technologies
-Java, Spring Boot, MySQL, Hibernate, Thymeleaf templates
+C#, MySQL 
 
 ### What I'll Have to Learn
 Learn some more robust functions, and utilize APIs to allow my users to share their results. 
